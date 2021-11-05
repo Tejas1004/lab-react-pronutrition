@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-protrips/static/css/main.df035741.chunk.css",
+    "main.js": "/react-protrips/static/js/main.66d21112.chunk.js",
+    "main.js.map": "/react-protrips/static/js/main.66d21112.chunk.js.map",
+    "runtime-main.js": "/react-protrips/static/js/runtime-main.c1661739.js",
+    "runtime-main.js.map": "/react-protrips/static/js/runtime-main.c1661739.js.map",
+    "static/js/2.1db64159.chunk.js": "/react-protrips/static/js/2.1db64159.chunk.js",
+    "static/js/2.1db64159.chunk.js.map": "/react-protrips/static/js/2.1db64159.chunk.js.map",
+    "index.html": "/react-protrips/index.html",
+    "static/css/main.df035741.chunk.css.map": "/react-protrips/static/css/main.df035741.chunk.css.map",
+    "static/js/2.1db64159.chunk.js.LICENSE.txt": "/react-protrips/static/js/2.1db64159.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1661739.js",
+    "static/js/2.1db64159.chunk.js",
+    "static/css/main.df035741.chunk.css",
+    "static/js/main.66d21112.chunk.js"
+  ]
+}
