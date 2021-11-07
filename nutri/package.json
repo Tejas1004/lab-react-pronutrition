@@ -1,7 +1,7 @@
 {
   "name": "nutri",
   "version": "0.1.0",
-  "homepage": "http://Tejas1004.github.io/react-protrips",
+  "homepage": "http://Tejas1004.github.io/lab-react-pronutrition",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
@@ -42,3 +42,4 @@
     "gh-pages": "^3.2.3"
   }
 }
+ 
